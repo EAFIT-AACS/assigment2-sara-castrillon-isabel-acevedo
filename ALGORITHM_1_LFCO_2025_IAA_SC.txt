@@ -1,0 +1,11 @@
+Cadenas válidas:
+Aceptada: aabb
+Aceptada: aaabbb
+Aceptada: aaabbb
+Aceptada: aaaabbbb
+
+Cadenas inválidas:
+Rechazada: abb
+Rechazada: aabb
+Rechazada: aaabb
+Rechazada: aaaabb
